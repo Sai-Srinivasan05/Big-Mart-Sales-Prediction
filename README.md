@@ -55,4 +55,4 @@ The project follows a structured approach, with each stage covered in separate J
   ```bash
   pip install pandas numpy scikit-learn matplotlib seaborn xgboost
 ## Co-authored-by
-Sai Srinivasan - [@Sai-Srinivasan05](https://github.com/Sai-Srinivasan05)
+- **Thrisheiyan U K** - [@Thrisheiyan U K](https://github.com/ThrisheiyanUK)
